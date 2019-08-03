@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0](https://github.com/monorepo-lab/mono-fixed/compare/v0.0.3...v0.1.0) (2019-08-03)
+
+
+### Features
+
+* **lib:** add minus method ([acd1878](https://github.com/monorepo-lab/mono-fixed/commit/acd1878))
+
+
+
+
+
 ## [0.0.3](https://github.com/monorepo-lab/mono-fixed/compare/v0.0.2...v0.0.3) (2019-08-03)
 
 

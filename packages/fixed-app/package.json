@@ -1,6 +1,6 @@
 {
   "name": "@hardfist/fixed-app",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "> TODO: description",
   "author": "yangjian.fe <yangjian.fe@bytedance.com>",
   "homepage": "https://github.com/monorepo-lab/mono-fixed#readme",
@@ -27,6 +27,6 @@
     "url": "https://github.com/monorepo-lab/mono-fixed/issues"
   },
   "dependencies": {
-    "@hardfist/fixed-lib": "^0.0.3"
+    "@hardfist/fixed-lib": "^0.1.0"
   }
 }

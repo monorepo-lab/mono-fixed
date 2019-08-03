@@ -10,7 +10,7 @@
       "changelog": true,
       "conventionalCommits": true,
       "message": "chore: publish",
-      "push": false
+      "push": true
     },
     "publish": {
       "allowBranch": "master",

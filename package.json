@@ -1,6 +1,13 @@
 {
   "name": "root",
   "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "bump": "lerna version",
+    "release": "lerna publish from-package"
+  },
   "devDependencies": {
     "lerna": "^3.13.1"
   }
